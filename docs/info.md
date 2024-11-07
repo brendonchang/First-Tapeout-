@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Half adder adds 2 one bit integers, and I have 4 of them which produces 4 outputs onto the LED display.
 
 ## How to test
 
-Explain how to use your project
+
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+N/A
